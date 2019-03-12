@@ -1,2 +1,1 @@
-# CourseraCapstone
-Movie recommender
+# Coursera Capstone Project: MovieRecommendationSystem
